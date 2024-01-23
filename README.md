@@ -1,10 +1,12 @@
 # bokeh_smith
+
 For drawing Smith Charts with Bokeh
 
-# Example
+## Example
+
 Here's a usage within a Jupyter notebook:
 
-```
+```py
 from bokeh.io import show, output_notebook
 output_notebook()
 
